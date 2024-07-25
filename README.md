@@ -94,4 +94,4 @@ Jalankan server pengembangan Laravel::
 
 ```bash
 php artisan serve
-```
+```# news-app
