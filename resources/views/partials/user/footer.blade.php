@@ -3,7 +3,7 @@
         <div class="flex flex-col md:flex-row justify-between items-center space-y-2 md:space-y-0 md:space-x-2 rtl:space-x-reverse">
             <div class="flex items-center space-x-2 rtl:space-x-reverse">
                 <a href="{{ url('/') }}" class="flex items-center space-x-2 rtl:space-x-reverse">
-                    <img src="https://flowbite.com/docs/images/logo.svg" class="h-8" alt="Flowbite Logo" />
+                    <img src="images/reshot-icon-lastfm-NVQ647DYCA.svg" class="h-8" alt="logo news-app" />
                     <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">News Talenthub</span>
                 </a>
             </div>
@@ -20,6 +20,6 @@
             </ul>
         </div>
         <hr class="my-4 border-gray-200 dark:border-gray-700" />
-        <span class="block text-xs text-gray-500 text-center dark:text-gray-400">© 2024 <a href="#" class="hover:underline">News Talenthub</a>. All Rights Reserved.</span>
+        <span class="block text-xs text-gray-500 text-center dark:text-gray-400">© 2024 <a href="#" class="hover:underline">News App</a>. All Rights Reserved.</span>
     </div>
 </footer>

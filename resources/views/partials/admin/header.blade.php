@@ -9,7 +9,7 @@
                     </svg>
                 </button>
                 <a href="{{ route('admin.dashboard') }}" class="flex ms-2 md:me-24">
-                    <img src="https://flowbite.com/docs/images/logo.svg" class="h-8 me-3" alt="FlowBite Logo" />
+                    <img src="images/reshot-icon-lastfm-NVQ647DYCA.svg" class="h-8 me-3" alt="FlowBite Logo" />
                     <span class="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap dark:text-white">News Talenthub</span>
                 </a>
             </div>

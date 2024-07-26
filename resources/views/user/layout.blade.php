@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>News Talenthub</title>
+    <title>News-App</title>
     <link rel="icon" href="https://flowbite.com/docs/images/logo.svg" type="image/svg+xml">
     @vite(['resources/css/app.css','resources/js/app.js'])
 </head>
+
 <body class="bg-gray-100 flex flex-col min-h-screen">
     <!-- Header -->
     <div class="container mx-auto py-2">
@@ -43,8 +45,9 @@
 
     <!-- Footer -->
     @include('partials.user.footer')
-    
+
     <!-- Import Flowbite script -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.5.3/flowbite.min.js"></script>
 </body>
+
 </html>
