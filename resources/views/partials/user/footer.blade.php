@@ -20,6 +20,6 @@
             </ul>
         </div>
         <hr class="my-4 border-gray-200 dark:border-gray-700" />
-        <span class="block text-xs text-gray-500 text-center dark:text-gray-400">© 2024 <a href="#" class="hover:underline">News App</a>. All Rights Reserved.</span>
+        <span class="block text-xs text-gray-500 text-center dark:text-gray-400">© 2024 <a href="#" class="hover:underline">News-App</a>. All Rights Reserved.</span>
     </div>
 </footer>
